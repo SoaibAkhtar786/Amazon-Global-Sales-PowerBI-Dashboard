@@ -36,20 +36,19 @@ The dashboard provides insights into sales trends, regional performance, custome
 - Customer profitability analysis
 - Interactive filters and slicers
 - Business performance visualization
-
 ## 📸 Dashboard Preview
 
-### Dashboard Overview
+### 📊 Dashboard Overview
+![Dashboard 1](dashboard1.PNG)
 
-![Dashboard 1](screenshots/dashboard1.PNG)
+### 📈 Sales Analytics
+![Dashboard 2](dashboard2.PNG)
 
-### Sales Analysis
+### 📋 Detailed Analysis
+![Dashboard 3](dashboard3.PNG)
 
-![Dashboard 2](screenshots/dashboard2.PNG)
-
-### Detailed Analysis
-
-![Dashboard 3](screenshots/dashboard3.PNG)
+### 📊 Additional Dashboard View
+![Dashboard 4](dashboard4.PNG)
 
 ## 🎯 Project Objective
 
